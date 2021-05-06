@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=TitleScreen
+comment0.text=\r\n\ Title\ screen\ for\ the\ 'Gravity\ Falls'\r\n\ \r\n\ @Owen\ Zhu\r\n\ @v1.0\r\n\ \r\n\ Background\ images\ came\ from\:\ http\://www.sclance.com/backgrounds/cartoon-backgrounds-for-animation/view-page-2.htm\r\n\ The\ music\ was\ found\ online\ at\:\ https\://www.youtube.com/watch?v\=uIYBnfsB37k\r\n
+comment1.params=
+comment1.target=TitleScreen()
+comment2.params=
+comment2.target=void\ act()
+numComments=3

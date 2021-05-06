@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Help
+comment0.text=\r\n\ Instructions\ on\ how\ to\ play\ the\ game\r\n\ \r\n\ @Owen\ Zhu\r\n\ @v1.0\r\n
+comment1.params=
+comment1.target=Help()
+comment2.params=
+comment2.target=void\ act()
+numComments=3

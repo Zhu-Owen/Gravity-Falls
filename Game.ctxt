@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Game
+comment0.text=\r\n\ Main\ driver\ for\ the\ typing\ game\r\n\ The\ class\ is\ initialized\ with\ a\ set\ list\ of\ words\r\n\ It\ detects\ and\ keyboard\ input\ and\ checks\ through\ the\ list\ of\ words\ to\ see\ if\ any\ of\ the\ words\ match\r\n\ \r\n\ @Owen\ Zhu\r\n\ @v1.0\r\n
+comment1.params=
+comment1.target=Game()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ spawn()
+comment4.params=
+comment4.target=java.lang.String\ typing()
+comment5.params=
+comment5.target=void\ gameOver()
+numComments=6

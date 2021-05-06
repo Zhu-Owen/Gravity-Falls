@@ -1,0 +1,1 @@
+A typing game where words fall down from the top of the screen and players must type said words before they reach the bottom.

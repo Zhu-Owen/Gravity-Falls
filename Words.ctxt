@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Words
+comment0.text=\r\n\ From\ the\ initalized\ list\ of\ words,\ a\ 'Word'\ actor\ is\ initialized\ and\ is\ set\ to\ fall\ down\ until\ the\ bottom\ of\ the\ screen\r\n\ \r\n\ @Owen\ Zhu\r\n\ @v1.0\r\n
+comment1.params=text
+comment1.target=Words(java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+numComments=3
